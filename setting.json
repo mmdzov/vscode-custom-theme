@@ -4,7 +4,7 @@
     "sideBar.background": "#292931cc",
     "sideBar.foreground": "#c7c7c7",
     "sideBarSectionHeader.background": "#272730",
-    "titleBar.activeBackground": "#23232b",
+    "titleBar.activeBackground": "#282830",
     "titleBar.activeForeground": "#c7c7c7",
     "statusBar.background": "#2a2a33cc",
     "widget.shadow": "#2a2a33ef",
@@ -28,7 +28,7 @@
     "editorSuggestWidget.selectedBackground": "#1e1e25e8",
     "editorSuggestWidget.foreground": "#cececeee",
     "editorGroup.dropBackground": "#1f2227ab",
-    "editorGroupHeader.tabsBackground": "#292931cc",
+    "editorGroupHeader.tabsBackground": "#282830cc",
     "sideBarSectionHeader.foreground": "#c4c4c4",
     "editorIndentGuide.background": "#d4d4d418",
     "editorOverviewRuler.border": "#ff000000"
